@@ -52,12 +52,6 @@ I’m a third-year CSE (AI-IBM) student who builds practical AI systems — from
 
 ---
 
-## 📈 GitHub
-
-![Sambhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sambhav242005\&show_icons=true\&theme=radical)
-
----
-
 ## 🤝 Connect
 
 * LinkedIn: [Sambhav Surana](https://www.linkedin.com/in/sambhav-surana-19a557279/)
