@@ -1,33 +1,74 @@
-# Hi there, I'm Sambhav Surana! 👋
+# Hi there, I’m Sambhav Surana! 👋
 
-## 🚀 A Little Bit About Me
-I'm a passionate developer who loves exploring the intersection of **AI, machine learning, and software development**. My expertise includes **Next.js, TypeScript, Docker**, and lately, I'm diving deep into the world of **fine-tuning AI models** with **LangChain**. I enjoy creating intelligent applications that enhance user experiences and solve complex problems.
+**AI/ML Developer · Python & Full-stack · Real-time Computer Vision**
 
-Currently, I'm refining my skills in model fine-tuning to create more efficient and powerful AI-driven solutions. I'm also actively contributing and exploring new ideas within the vibrant AI developer community.
+I’m a third-year CSE (AI-IBM) student who builds practical AI systems — from custom models and multi-agent pipelines to high-throughput real-time face recognition. I enjoy turning complex research ideas into reliable software and production-ready services.
 
-- 💻 **Current Project:** [Collaborative Whiteboard Tool](#) – Enhancing remote collaboration with AI.
-- 🎯 **Tech Interests:** LangChain, Model Fine-tuning, Microservices, JavaScript ecosystems, and IoT.
-- 🔭 **Ongoing Experiments:** Advanced fine-tuning techniques using **LangChain** to optimize AI performance.
-- 📚 **Currently Learning:** Fine-tuning AI models with **LangChain**.
+> Resume & contact details: 
+[Portfolio](https://www.sambhav-surana.online/)
+---
 
-## 🔧 My Tech Stack & Favorite Tools
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0052CC?logo=chainlink&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?logo=raspberrypi&logoColor=white)
+## 🚀 Focus & Current Work
 
-## 📈 My GitHub Stats
-![Sambhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sambhav242005&show_icons=true&theme=radical)
-
-## 🤝 Let's Connect!
-I'm always excited to connect with fellow developers, collaborate on interesting projects, or simply exchange ideas!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sambhav-surana-19a557279/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=react&logoColor=white)](https://sambhav.site)
+* Fine-tuning LLMs and building agent/workflow orchestration with **LangChain**.
+* Deployment & integration: **FastAPI**, **Gradio**, **Next.js**, **Docker**, **Nginx**.
+* Real-time CV systems using **YOLO (v11)**, **face_recognition/OpenCV**, and **ChromaDB** for vector retrieval.
+* Building parameter-efficient models and training loops (PyTorch, mixed precision, optimization strategies).
 
 ---
-⭐️ _Feel free to explore my projects, contribute, or reach out—let's innovate together!_ 🚀
+
+## 🔭 Selected Projects
+
+* **Multi-Agents — Automated Product Development**
+  Orchestrated a 7-stage LangChain multi-agent pipeline (Product Manager, Engineer, Risk Analyst, Clarifier, etc.) to autonomously generate product blueprints. Deployed with FastAPI + Next.js + Docker.
+  Repo: `https://github.com/Sambhav242005/Multi-Agents`
+
+* **Real-Time AI Face Recognition System**
+  High-throughput face tracking using YOLOv11 + vector DB (ChromaDB), multi-process architecture (detection / encoding / rendering) for low latency and scalable identification.
+  Repo: `https://github.com/Sambhav242005/AI-Face-Detect…`
+
+* **Savant — Custom Universal Transformer**
+  Parameter-efficient recurrent transformer built in PyTorch with liquid gating and a logic-heavy training strategy to improve reasoning density.
+
+* **Prime-Paradox (CampusCare)**
+  Multi-agent intelligent medical ecosystem using LangGraph & OpenRouter, Next.js frontend and FastAPI backend for real-time monitoring and doctor-patient workflows.
+
+---
+
+## 💻 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0052CC?logo=chainlink\&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000?logo=data\:image/png;base64,)
+![Gradio](https://img.shields.io/badge/Gradio-000?logo=gradio\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv\&logoColor=white)
+
+**Areas of strength:** Computer Vision (YOLO, tracking), Vector Databases (ChromaDB), LLM orchestration (LangChain), model fine-tuning, production deployment (Docker, FastAPI, Next.js), real-time systems.
+
+---
+
+## 📈 GitHub
+
+![Sambhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sambhav242005\&show_icons=true\&theme=radical)
+
+---
+
+## 🤝 Connect
+
+* LinkedIn: [Sambhav Surana](https://www.linkedin.com/in/sambhav-surana-19a557279/)
+* Portfolio: [https://sambhav.site](https://sambhav.site)
+* Resume / CV (uploaded): 
+[Portfolio](https://www.sambhav-surana.online/)
+---
+
+## Quick ways to collaborate
+
+* Need a realtime CV system demo? I can provide a Gradio/RT demo of YOLO + face recognition.
+* Building agent orchestration? I can help design the LangChain stage flow and error-handling logic.
+* Interested in model fine-tuning? I can help set up LoRA/PEFT pipelines and evaluation metrics.
 
