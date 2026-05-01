@@ -1,11 +1,10 @@
-# Hi there, I’m Sambhav Surana! 👋
+# Hi there, I’m Sambhav Surana — AI Agents & Systems Builder 👋
 
-**AI/ML Developer · Python & Full-stack · Real-time Computer Vision**
+**AI Agents & Systems Builder · Python & Full-stack · Real-Time Computer Vision**
 
-I’m a third-year CSE (AI-IBM) student who builds practical AI systems — from custom models and multi-agent pipelines to high-throughput real-time face recognition. I enjoy turning complex research ideas into reliable software and production-ready services.
+Third-year CSE (AI-IBM) student focused on AI agent systems, custom models, and real-time computer vision pipelines. Skilled in Python, PyTorch, and full-stack development (FastAPI/Next.js/Docker). I turn research ideas into reliable, production-ready services and am seeking impactful engineering roles.
 
-> Resume & contact details: 
-[Portfolio](https://www.sambhav-surana.online/)
+> Portfolio & contact details: [https://sambhav-surana.online](https://sambhav-surana.online)
 ---
 
 ## 🚀 Focus & Current Work
@@ -19,19 +18,21 @@ I’m a third-year CSE (AI-IBM) student who builds practical AI systems — from
 
 ## 🔭 Selected Projects
 
-* **Multi-Agents — Automated Product Development**
-  Orchestrated a 7-stage LangChain multi-agent pipeline (Product Manager, Engineer, Risk Analyst, Clarifier, etc.) to autonomously generate product blueprints. Deployed with FastAPI + Next.js + Docker.
-  Repo: `https://github.com/Sambhav242005/Multi-Agents`
+* **Multi-Agents - Automated Product Development**
+  Autonomous agent system that turns raw ideas into technical product specifications using a 7-stage LangChain workflow. Deployed with FastAPI + Next.js + Docker.
+  Repo: `https://github.com/Sambhav242005/Multi-Agents-Automated-Product-Development`
 
 * **Real-Time AI Face Recognition System**
-  High-throughput face tracking using YOLOv11 + vector DB (ChromaDB), multi-process architecture (detection / encoding / rendering) for low latency and scalable identification.
-  Repo: `https://github.com/Sambhav242005/AI-Face-Detect…`
+  High-throughput face tracking system using YOLOv11 and vector DB retrieval with a multi-process architecture.
+  Repo: `https://github.com/Sambhav242005/Real-Time-AI-Face-Recognition-System`
 
-* **Savant — Custom Universal Transformer**
-  Parameter-efficient recurrent transformer built in PyTorch with liquid gating and a logic-heavy training strategy to improve reasoning density.
+* **Savant - Custom Universal Transformer**
+  Parameter-efficient recurrent language model built in PyTorch with liquid gating mechanisms.
+  Repo: `https://github.com/Sambhav242005/Savant-Custom-Universal-Transformer`
 
 * **Prime-Paradox (CampusCare)**
-  Multi-agent intelligent medical ecosystem using LangGraph & OpenRouter, Next.js frontend and FastAPI backend for real-time monitoring and doctor-patient workflows.
+  Multi-agent medical ecosystem connecting patients and doctors with secure messaging and real-time workflows.
+  Repo: `https://github.com/Sambhav242005/Prime-Paradox-CampusCare`
 
 ---
 
@@ -55,9 +56,8 @@ I’m a third-year CSE (AI-IBM) student who builds practical AI systems — from
 ## 🤝 Connect
 
 * LinkedIn: [Sambhav Surana](https://www.linkedin.com/in/sambhav-surana-19a557279/)
-* Portfolio: [https://sambhav.site](https://sambhav.site)
-* Resume / CV (uploaded): 
-[Portfolio](https://www.sambhav-surana.online/)
+* Portfolio: [https://sambhav-surana.online](https://sambhav-surana.online)
+* Resume / CV: [https://sambhav-surana.online](https://sambhav-surana.online)
 ---
 
 ## Quick ways to collaborate
@@ -65,4 +65,3 @@ I’m a third-year CSE (AI-IBM) student who builds practical AI systems — from
 * Need a realtime CV system demo? I can provide a Gradio/RT demo of YOLO + face recognition.
 * Building agent orchestration? I can help design the LangChain stage flow and error-handling logic.
 * Interested in model fine-tuning? I can help set up LoRA/PEFT pipelines and evaluation metrics.
-
