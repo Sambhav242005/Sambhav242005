@@ -1,8 +1,8 @@
 {
   "profile": {
     "name": "Sambhav Surana",
-    "tagline": "AI Enthusiast | Python Developer | Problem Solver",
-    "summary": "Third-year student specializing in Artificial Intelligence. I have built custom AI models, intelligent agents, and real-time face recognition systems from scratch. Skilled in Python, PyTorch, and full-stack development. I am passionate about turning complex AI concepts into working software and am looking for a challenging role in engineering.",
+    "tagline": "AI Agents & Systems Builder | Python & Full-Stack Developer | Real-Time Computer Vision",
+    "summary": "Third-year CSE (AI-IBM) student focused on AI agent systems, custom models, and real-time computer vision pipelines. Skilled in Python, PyTorch, and full-stack development (FastAPI/Next.js/Docker). I turn research ideas into reliable, production-ready services and am seeking impactful engineering roles.",
     "email": "sambhav242005@gmail.com",
     "phone": "+91 7999468896",
     "website": "https://sambhav-surana.online",
@@ -38,7 +38,7 @@
     {
       "id": "proj-1",
       "title": "Multi-Agents - Automated Product Development",
-      "description": "An autonomous agent system that converts raw ideas into technical product specifications using a 7-stage LangChain workflow.",
+      "description": "Autonomous agent system that turns raw ideas into technical product specifications using a 7-stage LangChain workflow.",
       "technologies": ["LangChain", "Multi-Agent Systems", "FastAPI", "Docker", "Next.js"],
       "category": "ai",
       "githubUrl": "https://github.com/Sambhav242005/Multi-Agents-Automated-Product-Development",
@@ -47,7 +47,7 @@
     {
       "id": "proj-2",
       "title": "Real-Time AI Face Recognition System",
-      "description": "High-throughput face tracking system using YOLOv11 and Vector Database retrieval with multi-process architecture.",
+      "description": "High-throughput face tracking system using YOLOv11 and vector DB retrieval with a multi-process architecture.",
       "technologies": ["YOLOv11", "ChromaDB", "Computer Vision", "Multi-Processing", "OpenCV"],
       "category": "ai",
       "githubUrl": "https://github.com/Sambhav242005/Real-Time-AI-Face-Recognition-System",
@@ -56,7 +56,7 @@
     {
       "id": "proj-3",
       "title": "Savant - Custom Universal Transformer",
-      "description": "A parameter-efficient Recurrent Language Model built from scratch in PyTorch with Liquid Gating mechanisms.",
+      "description": "Parameter-efficient recurrent language model built in PyTorch with liquid gating mechanisms.",
       "technologies": ["PyTorch", "Universal Transformer", "LLM Architecture", "Liquid Neural Networks"],
       "category": "ai",
       "githubUrl": "https://github.com/Sambhav242005/Savant-Custom-Universal-Transformer",
@@ -65,7 +65,7 @@
     {
       "id": "proj-4",
       "title": "Prime-Paradox (CampusCare)",
-      "description": "Intelligent medical ecosystem connecting patients and doctors via Multi-Agent AI with secure messaging.",
+      "description": "Multi-agent medical ecosystem connecting patients and doctors with secure messaging and real-time workflows.",
       "technologies": ["Next.js 15", "FastAPI", "LangGraph", "Supabase", "Full Stack Development"],
       "category": "web",
       "githubUrl": "https://github.com/Sambhav242005/Prime-Paradox-CampusCare",
