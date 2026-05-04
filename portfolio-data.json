@@ -1,8 +1,8 @@
 {
   "profile": {
     "name": "Sambhav Surana",
-    "tagline": "AI Agents & Systems Builder | Python & Full-Stack Developer | Real-Time Computer Vision",
-    "summary": "Third-year CSE (AI-IBM) student focused on AI agent systems, custom models, and real-time computer vision pipelines. Skilled in Python, PyTorch, and full-stack development (FastAPI/Next.js/Docker). I turn research ideas into reliable, production-ready services and am seeking impactful engineering roles.",
+    "tagline": "AI Agents & Systems Builder · Python & Full-stack Developer · Real-Time Computer Vision",
+    "summary": "Third-year CSE (AI-IBM) student at Shri Vaishnav Vidyapeeth Vishwavidyalaya focused on AI agent systems, custom models, and real-time computer vision pipelines. Skilled in Python, PyTorch, and full-stack development (FastAPI/Next.js/Docker). I turn research ideas into reliable, production-ready services and am seeking impactful engineering roles.",
     "email": "sambhav242005@gmail.com",
     "phone": "+91 7999468896",
     "website": "https://sambhav-surana.online",
@@ -29,7 +29,7 @@
       "degree": "B.Tech — Computer Science (AI-IBM) — III Year",
       "dateRange": "2023 - Present",
       "details": [
-        "CGPA: 7.2",
+        "CGPA: 7.5",
         "Relevant: Machine Learning, NLP, Time Series, Statistics"
       ]
     }
@@ -38,37 +38,60 @@
     {
       "id": "proj-1",
       "title": "Multi-Agents - Automated Product Development",
-      "description": "Autonomous agent system that turns raw ideas into technical product specifications using a 7-stage LangChain workflow.",
-      "technologies": ["LangChain", "Multi-Agent Systems", "FastAPI", "Docker", "Next.js"],
+      "description": "An autonomous agent system that converts raw ideas into technical product specifications using a 7-stage LangChain workflow.",
+      "technologies": [
+        "LangChain",
+        "Multi-Agent Systems",
+        "FastAPI",
+        "Docker",
+        "Next.js"
+      ],
       "category": "ai",
-      "githubUrl": "https://github.com/Sambhav242005/Multi-Agents-Automated-Product-Development",
+      "githubUrl": "https://github.com/Sambhav242005/Multi-Agents",
       "liveUrl": ""
     },
     {
       "id": "proj-2",
       "title": "Real-Time AI Face Recognition System",
-      "description": "High-throughput face tracking system using YOLOv11 and vector DB retrieval with a multi-process architecture.",
-      "technologies": ["YOLOv11", "ChromaDB", "Computer Vision", "Multi-Processing", "OpenCV"],
+      "description": "High-throughput face tracking system using YOLOv11 and Vector Database retrieval with multi-process architecture.",
+      "technologies": [
+        "YOLOv11",
+        "ChromaDB",
+        "Computer Vision",
+        "Multi-Processing",
+        "OpenCV"
+      ],
       "category": "ai",
-      "githubUrl": "https://github.com/Sambhav242005/Real-Time-AI-Face-Recognition-System",
+      "githubUrl": "https://github.com/Sambhav242005/AI-Face-Recognition-System",
       "liveUrl": ""
     },
     {
       "id": "proj-3",
       "title": "Savant - Custom Universal Transformer",
-      "description": "Parameter-efficient recurrent language model built in PyTorch with liquid gating mechanisms.",
-      "technologies": ["PyTorch", "Universal Transformer", "LLM Architecture", "Liquid Neural Networks"],
+      "description": "A parameter-efficient Recurrent Language Model built from scratch in PyTorch with Liquid Gating mechanisms.",
+      "technologies": [
+        "PyTorch",
+        "Universal Transformer",
+        "LLM Architecture",
+        "Liquid Neural Networks"
+      ],
       "category": "ai",
-      "githubUrl": "https://github.com/Sambhav242005/Savant-Custom-Universal-Transformer",
+      "githubUrl": "https://github.com/Sambhav242005/Project-Savant",
       "liveUrl": ""
     },
     {
       "id": "proj-4",
       "title": "Prime-Paradox (CampusCare)",
-      "description": "Multi-agent medical ecosystem connecting patients and doctors with secure messaging and real-time workflows.",
-      "technologies": ["Next.js 15", "FastAPI", "LangGraph", "Supabase", "Full Stack Development"],
+      "description": "Intelligent medical ecosystem connecting patients and doctors via Multi-Agent AI with secure messaging.",
+      "technologies": [
+        "Next.js 15",
+        "FastAPI",
+        "LangGraph",
+        "Supabase",
+        "Full Stack Development"
+      ],
       "category": "web",
-      "githubUrl": "https://github.com/Sambhav242005/Prime-Paradox-CampusCare",
+      "githubUrl": "https://github.com/Voidhacks7-0/Prime-Paradox",
       "liveUrl": ""
     }
   ],
@@ -77,81 +100,180 @@
       "category": "Programming Languages",
       "icon": "code",
       "items": [
-        { "name": "Python", "level": 90 },
-        { "name": "JavaScript", "level": 75 },
-        { "name": "SQL", "level": 70 },
-        { "name": "Bash", "level": 65 }
+        {
+          "name": "Python",
+          "level": 90
+        },
+        {
+          "name": "JavaScript",
+          "level": 75
+        },
+        {
+          "name": "SQL",
+          "level": 70
+        },
+        {
+          "name": "Bash",
+          "level": 65
+        }
       ]
     },
     {
       "category": "ML Libraries & Frameworks",
       "icon": "brain",
       "items": [
-        { "name": "NumPy", "level": 85 },
-        { "name": "Pandas", "level": 85 },
-        { "name": "Scikit-learn", "level": 80 },
-        { "name": "TensorFlow", "level": 70 },
-        { "name": "PyTorch", "level": 75 },
-        { "name": "Matplotlib", "level": 80 }
+        {
+          "name": "NumPy",
+          "level": 85
+        },
+        {
+          "name": "Pandas",
+          "level": 85
+        },
+        {
+          "name": "Scikit-learn",
+          "level": 80
+        },
+        {
+          "name": "TensorFlow",
+          "level": 70
+        },
+        {
+          "name": "PyTorch",
+          "level": 75
+        },
+        {
+          "name": "Matplotlib",
+          "level": 80
+        }
       ]
     },
     {
       "category": "Computer Vision",
       "icon": "camera",
       "items": [
-        { "name": "OpenCV", "level": 85 },
-        { "name": "YOLO", "level": 80 },
-        { "name": "Face Recognition", "level": 80 },
-        { "name": "Object Detection", "level": 75 }
+        {
+          "name": "OpenCV",
+          "level": 85
+        },
+        {
+          "name": "YOLO",
+          "level": 80
+        },
+        {
+          "name": "Face Recognition",
+          "level": 80
+        },
+        {
+          "name": "Object Detection",
+          "level": 75
+        }
       ]
     },
-     {
+    {
       "category": "Deep Learning",
       "icon": "network",
       "items": [
-        { "name": "CNN", "level": 80 },
-        { "name": "Neural Networks", "level": 80 },
-        { "name": "Model Training", "level": 75 },
-        { "name": "Transfer Learning", "level": 70 }
+        {
+          "name": "CNN",
+          "level": 80
+        },
+        {
+          "name": "Neural Networks",
+          "level": 80
+        },
+        {
+          "name": "Model Training",
+          "level": 75
+        },
+        {
+          "name": "Transfer Learning",
+          "level": 70
+        }
       ]
     },
     {
       "category": "NLP & Generative AI",
       "icon": "message-square",
       "items": [
-        { "name": "LangChain", "level": 80 },
-        { "name": "OpenAI API", "level": 85 },
-        { "name": "Ollama", "level": 75 },
-        { "name": "LLM Integration", "level": 80 }
+        {
+          "name": "LangChain",
+          "level": 80
+        },
+        {
+          "name": "OpenAI API",
+          "level": 85
+        },
+        {
+          "name": "Ollama",
+          "level": 75
+        },
+        {
+          "name": "LLM Integration",
+          "level": 80
+        }
       ]
     },
     {
       "category": "Web Technologies",
       "icon": "globe",
       "items": [
-        { "name": "React.js", "level": 80 },
-        { "name": "Next.js", "level": 75 },
-        { "name": "HTML/CSS", "level": 85 },
-        { "name": "Tailwind CSS", "level": 85 }
+        {
+          "name": "React.js",
+          "level": 80
+        },
+        {
+          "name": "Next.js",
+          "level": 75
+        },
+        {
+          "name": "HTML/CSS",
+          "level": 85
+        },
+        {
+          "name": "Tailwind CSS",
+          "level": 85
+        }
       ]
     },
     {
       "category": "Databases",
       "icon": "database",
       "items": [
-        { "name": "MySQL", "level": 80 },
-        { "name": "MongoDB", "level": 75 },
-        { "name": "ChromaDB", "level": 75 }
+        {
+          "name": "MySQL",
+          "level": 80
+        },
+        {
+          "name": "MongoDB",
+          "level": 75
+        },
+        {
+          "name": "ChromaDB",
+          "level": 75
+        }
       ]
     },
     {
       "category": "Deployment & Tools",
       "icon": "terminal",
       "items": [
-        { "name": "Git", "level": 85 },
-        { "name": "Docker", "level": 70 },
-        { "name": "REST APIs", "level": 80 },
-        { "name": "VS Code", "level": 90 }
+        {
+          "name": "Git",
+          "level": 85
+        },
+        {
+          "name": "Docker",
+          "level": 70
+        },
+        {
+          "name": "REST APIs",
+          "level": 80
+        },
+        {
+          "name": "VS Code",
+          "level": 90
+        }
       ]
     }
   ],
@@ -167,8 +289,8 @@
     {
       "id": "cert-2",
       "title": "Introduction to Machine Learning",
-      "issuer": "NPTEL Online Certification – IIT Kharagpur",
-      "date": "Jul–Sep 2024",
+      "issuer": "NPTEL Online Certification - IIT Kharagpur",
+      "date": "Jul-Sep 2024",
       "description": "Achieved Elite Certificate with a consolidated score of 66%. Completed an 8-week course covering fundamental machine learning concepts and assignments.",
       "link": ""
     }
