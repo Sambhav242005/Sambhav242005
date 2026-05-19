@@ -16,7 +16,7 @@
       "company": "Abhyudaya Coding Club — Shri Vaishnav Vidyapeeth Vishwavidyalaya",
       "dateRange": "2024 - Present",
       "bullets": [
-        "The development of AI-based projects including Time Table Generation system using constraint satisfaction algorithms",
+        "Developed AI-based projects including Time Table Generation system using constraint satisfaction algorithms",
         "Organized workshops on Python, NumPy, Pandas, and Scikit-learn for club members",
         "Collaborated with team members on model optimization and performance enhancement"
       ]
@@ -36,21 +36,6 @@
   ],
   "projects": [
     {
-      "id": "proj-1",
-      "title": "Multi-Agents - Automated Product Development",
-      "description": "An autonomous agent system that converts raw ideas into technical product specifications using a 7-stage LangChain workflow.",
-      "technologies": [
-        "LangChain",
-        "Multi-Agent Systems",
-        "FastAPI",
-        "Docker",
-        "Next.js"
-      ],
-      "category": "ai",
-      "githubUrl": "https://github.com/Sambhav242005/Multi-Agents",
-      "liveUrl": ""
-    },
-    {
       "id": "proj-2",
       "title": "Real-Time AI Face Recognition System",
       "description": "High-throughput face tracking system using YOLOv11 and Vector Database retrieval with multi-process architecture.",
@@ -62,21 +47,7 @@
         "OpenCV"
       ],
       "category": "ai",
-      "githubUrl": "https://github.com/Sambhav242005/AI-Face-Recognition-System",
-      "liveUrl": ""
-    },
-    {
-      "id": "proj-3",
-      "title": "Savant - Custom Universal Transformer",
-      "description": "A parameter-efficient Recurrent Language Model built from scratch in PyTorch with Liquid Gating mechanisms.",
-      "technologies": [
-        "PyTorch",
-        "Universal Transformer",
-        "LLM Architecture",
-        "Liquid Neural Networks"
-      ],
-      "category": "ai",
-      "githubUrl": "https://github.com/Sambhav242005/Project-Savant",
+      "githubUrl": "https://github.com/Sambhav242005/AI-Face-Detect-and-Recognition",
       "liveUrl": ""
     },
     {
@@ -102,19 +73,19 @@
       "items": [
         {
           "name": "Python",
-          "level": 90
+          "icon": "🐍"
         },
         {
           "name": "JavaScript",
-          "level": 75
+          "icon": "📜"
         },
         {
           "name": "SQL",
-          "level": 70
+          "icon": "🗃️"
         },
         {
           "name": "Bash",
-          "level": 65
+          "icon": "🐚"
         }
       ]
     },
@@ -124,27 +95,27 @@
       "items": [
         {
           "name": "NumPy",
-          "level": 85
+          "icon": "➗"
         },
         {
           "name": "Pandas",
-          "level": 85
+          "icon": "🐼"
         },
         {
           "name": "Scikit-learn",
-          "level": 80
+          "icon": "📊"
         },
         {
           "name": "TensorFlow",
-          "level": 70
+          "icon": "🔶"
         },
         {
           "name": "PyTorch",
-          "level": 75
+          "icon": "🔥"
         },
         {
           "name": "Matplotlib",
-          "level": 80
+          "icon": "📈"
         }
       ]
     },
@@ -154,19 +125,19 @@
       "items": [
         {
           "name": "OpenCV",
-          "level": 85
+          "icon": "👁️"
         },
         {
           "name": "YOLO",
-          "level": 80
+          "icon": "🎯"
         },
         {
           "name": "Face Recognition",
-          "level": 80
+          "icon": "🧑‍💻"
         },
         {
           "name": "Object Detection",
-          "level": 75
+          "icon": "🔎"
         }
       ]
     },
@@ -176,19 +147,19 @@
       "items": [
         {
           "name": "CNN",
-          "level": 80
+          "icon": "🧠"
         },
         {
           "name": "Neural Networks",
-          "level": 80
+          "icon": "🕸️"
         },
         {
           "name": "Model Training",
-          "level": 75
+          "icon": "🏋️"
         },
         {
           "name": "Transfer Learning",
-          "level": 70
+          "icon": "🔄"
         }
       ]
     },
@@ -198,19 +169,19 @@
       "items": [
         {
           "name": "LangChain",
-          "level": 80
+          "icon": "🔗"
         },
         {
           "name": "OpenAI API",
-          "level": 85
+          "icon": "🤖"
         },
         {
           "name": "Ollama",
-          "level": 75
+          "icon": "🦙"
         },
         {
           "name": "LLM Integration",
-          "level": 80
+          "icon": "🧩"
         }
       ]
     },
@@ -220,19 +191,19 @@
       "items": [
         {
           "name": "React.js",
-          "level": 80
+          "icon": "⚛️"
         },
         {
           "name": "Next.js",
-          "level": 75
+          "icon": "⏭️"
         },
         {
           "name": "HTML/CSS",
-          "level": 85
+          "icon": "🧱"
         },
         {
           "name": "Tailwind CSS",
-          "level": 85
+          "icon": "🌬️"
         }
       ]
     },
@@ -242,15 +213,15 @@
       "items": [
         {
           "name": "MySQL",
-          "level": 80
+          "icon": "🐬"
         },
         {
           "name": "MongoDB",
-          "level": 75
+          "icon": "🍃"
         },
         {
           "name": "ChromaDB",
-          "level": 75
+          "icon": "🎨"
         }
       ]
     },
@@ -260,19 +231,19 @@
       "items": [
         {
           "name": "Git",
-          "level": 85
+          "icon": "🌿"
         },
         {
           "name": "Docker",
-          "level": 70
+          "icon": "🐳"
         },
         {
           "name": "REST APIs",
-          "level": 80
+          "icon": "🔌"
         },
         {
           "name": "VS Code",
-          "level": 90
+          "icon": "🧰"
         }
       ]
     }

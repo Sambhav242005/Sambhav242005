@@ -6,58 +6,34 @@ Third-year CSE (AI-IBM) student at Shri Vaishnav Vidyapeeth Vishwavidyalaya focu
 
 **📧 Contact:** sambhav242005@gmail.com | **📱** +91 7999468896  
 **🌐 Portfolio:** [https://sambhav-surana.online](https://sambhav-surana.online)
+
 ---
 
-## � Education
+## 🎓 Education
 
-**B.Tech — Computer Science (AI-IBM)**  
+**B.Tech — Computer Science (AI-IBM) — III Year**  
 *Shri Vaishnav Vidyapeeth Vishwavidyalaya* | 2023 - Present | **CGPA: 7.5**
 
-**Relevant Coursework:** Machine Learning · NLP · Time Series Analysis · Statistics
+**Relevant Coursework:** Machine Learning · NLP · Time Series · Statistics
 
 ---
 
 ## 💼 Experience
 
-**Club Member** — *Abhyudaya Coding Club, Shri Vaishnav Vidyapeeth Vishwavidyalaya* | 2024 - Present
+**Club Member** — *Abhyudaya Coding Club — Shri Vaishnav Vidyapeeth Vishwavidyalaya* | 2024 - Present
 - Developed AI-based projects including Time Table Generation system using constraint satisfaction algorithms
-- Organized hands-on workshops on Python, NumPy, Pandas, and Scikit-learn for club members
-- Collaborated with team on model optimization and performance enhancement
+- Organized workshops on Python, NumPy, Pandas, and Scikit-learn for club members
+- Collaborated with team members on model optimization and performance enhancement
 
 ---
 
-## 🚀 Current Focus & Work
-
-- Fine-tuning LLMs and building agent/workflow orchestration with **LangChain**
-- Deployment & scaling: **FastAPI**, **Gradio**, **Next.js**, **Docker**, **Nginx**
-- Real-time CV systems using **YOLO (v11)**, **face_recognition/OpenCV**, and **ChromaDB** for vector retrieval
-- Building parameter-efficient models and optimized training loops (PyTorch, mixed precision strategies)
-
----
-
-## 🔭 Featured Projects
-
-### Multi-Agents - Automated Product Development
-An autonomous agent system that converts raw ideas into technical product specifications using a 7-stage LangChain workflow.
-
-**Tech Stack:** LangChain · Multi-Agent Systems · FastAPI · Docker · Next.js  
-**Repository:** [https://github.com/Sambhav242005/Multi-Agents](https://github.com/Sambhav242005/Multi-Agents)
-
----
+## 🚀 Featured Projects
 
 ### Real-Time AI Face Recognition System
 High-throughput face tracking system using YOLOv11 and Vector Database retrieval with multi-process architecture.
 
 **Tech Stack:** YOLOv11 · ChromaDB · Computer Vision · Multi-Processing · OpenCV  
-**Repository:** [https://github.com/Sambhav242005/AI-Face-Recognition-System](https://github.com/Sambhav242005/AI-Face-Recognition-System)
-
----
-
-### Savant - Custom Universal Transformer
-A parameter-efficient Recurrent Language Model built from scratch in PyTorch with Liquid Gating mechanisms.
-
-**Tech Stack:** PyTorch · Universal Transformer · LLM Architecture · Liquid Neural Networks  
-**Repository:** [https://github.com/Sambhav242005/Project-Savant](https://github.com/Sambhav242005/Project-Savant)
+**Repository:** [https://github.com/Sambhav242005/AI-Face-Detect-and-Recognition](https://github.com/Sambhav242005/AI-Face-Detect-and-Recognition)
 
 ---
 
@@ -80,27 +56,16 @@ Intelligent medical ecosystem connecting patients and doctors via Multi-Agent AI
 ![LangChain](https://img.shields.io/badge/LangChain-0052CC?logo=chainlink&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-### Languages & Frameworks
-- **Programming:** Python (90) · JavaScript (75) · SQL (70) · Bash (65)
-- **ML Libraries:** NumPy (85) · Pandas (85) · Scikit-learn (80) · TensorFlow (70) · PyTorch (75)
-- **Visualization & Plotting:** Matplotlib (80)
-
-### Computer Vision & Deep Learning
-- **CV:** OpenCV (85) · YOLO (80) · Face Recognition (80) · Object Detection (75)
-- **Deep Learning:** CNN (80) · Neural Networks (80) · Model Training (75) · Transfer Learning (70)
-
-### NLP & Generative AI
-- **LLM Tools:** LangChain (80) · OpenAI API (85) · Ollama (75) · LLM Integration (80)
-
-### Web & Full-Stack Development
-- **Frontend:** React.js (80) · Next.js (75) · HTML/CSS (85) · Tailwind CSS (85)
-- **Backend:** FastAPI · REST APIs (80)
-- **Databases:** MySQL (80) · MongoDB (75) · ChromaDB (75)
-
-### DevOps & Tools
-- **Tools & Platforms:** Git (85) · Docker (70) · VS Code (90)
-
-**Core Strengths:** Computer Vision (YOLO, tracking) · Vector Databases · LLM Orchestration · Model Fine-tuning · Production Deployment · Real-time Systems
+| Category | Skills |
+| --- | --- |
+| Programming Languages | 🐍 Python · 📜 JavaScript · 🗃️ SQL · 🐚 Bash |
+| ML Libraries & Frameworks | ➗ NumPy · 🐼 Pandas · 📊 Scikit-learn · 🔶 TensorFlow · 🔥 PyTorch · 📈 Matplotlib |
+| Computer Vision | 👁️ OpenCV · 🎯 YOLO · 🧑‍💻 Face Recognition · 🔎 Object Detection |
+| Deep Learning | 🧠 CNN · 🕸️ Neural Networks · 🏋️ Model Training · 🔄 Transfer Learning |
+| NLP & Generative AI | 🔗 LangChain · 🤖 OpenAI API · 🦙 Ollama · 🧩 LLM Integration |
+| Web Technologies | ⚛️ React.js · ⏭️ Next.js · 🧱 HTML/CSS · 🌬️ Tailwind CSS |
+| Databases | 🐬 MySQL · 🍃 MongoDB · 🎨 ChromaDB |
+| Deployment & Tools | 🌿 Git · 🐳 Docker · 🔌 REST APIs · 🧰 VS Code |
 
 ---
 
@@ -109,8 +74,8 @@ Intelligent medical ecosystem connecting patients and doctors via Multi-Agent AI
 **Hackwave 2.0** — *Echelon Dev Society at CDGI, Indore* | Aug 2025  
 36-hour coding hackathon with hands-on experience in rapid prototyping, teamwork, and problem-solving.
 
-**Introduction to Machine Learning** — *NPTEL Online Certification, IIT Kharagpur* | Jul–Sep 2024  
-Elite Certificate (Score: 66%) · 8-week comprehensive course on ML fundamentals and practical assignments
+**Introduction to Machine Learning** — *NPTEL Online Certification - IIT Kharagpur* | Jul-Sep 2024  
+Elite Certificate with a consolidated score of 66%. Completed an 8-week course covering fundamental machine learning concepts and assignments.
 
 ---
 
