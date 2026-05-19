@@ -36,21 +36,6 @@
   ],
   "projects": [
     {
-      "id": "proj-1",
-      "title": "Multi-Agents - Automated Product Development",
-      "description": "An autonomous agent system that converts raw ideas into technical product specifications using a 7-stage LangChain workflow.",
-      "technologies": [
-        "LangChain",
-        "Multi-Agent Systems",
-        "FastAPI",
-        "Docker",
-        "Next.js"
-      ],
-      "category": "ai",
-      "githubUrl": "https://github.com/Sambhav242005/Multi-Agents",
-      "liveUrl": ""
-    },
-    {
       "id": "proj-2",
       "title": "Real-Time AI Face Recognition System",
       "description": "High-throughput face tracking system using YOLOv11 and Vector Database retrieval with multi-process architecture.",
@@ -62,21 +47,7 @@
         "OpenCV"
       ],
       "category": "ai",
-      "githubUrl": "https://github.com/Sambhav242005/AI-Face-Recognition-System",
-      "liveUrl": ""
-    },
-    {
-      "id": "proj-3",
-      "title": "Savant - Custom Universal Transformer",
-      "description": "A parameter-efficient Recurrent Language Model built from scratch in PyTorch with Liquid Gating mechanisms.",
-      "technologies": [
-        "PyTorch",
-        "Universal Transformer",
-        "LLM Architecture",
-        "Liquid Neural Networks"
-      ],
-      "category": "ai",
-      "githubUrl": "https://github.com/Sambhav242005/Project-Savant",
+      "githubUrl": "https://github.com/Sambhav242005/AI-Face-Detect-and-Recognition",
       "liveUrl": ""
     },
     {
