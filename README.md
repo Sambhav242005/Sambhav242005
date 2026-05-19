@@ -56,54 +56,16 @@ Intelligent medical ecosystem connecting patients and doctors via Multi-Agent AI
 ![LangChain](https://img.shields.io/badge/LangChain-0052CC?logo=chainlink&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-### Programming Languages
-- **Python:** 90
-- **JavaScript:** 75
-- **SQL:** 70
-- **Bash:** 65
-
-### ML Libraries & Frameworks
-- **NumPy:** 85
-- **Pandas:** 85
-- **Scikit-learn:** 80
-- **TensorFlow:** 70
-- **PyTorch:** 75
-- **Matplotlib:** 80
-
-### Computer Vision
-- **OpenCV:** 85
-- **YOLO:** 80
-- **Face Recognition:** 80
-- **Object Detection:** 75
-
-### Deep Learning
-- **CNN:** 80
-- **Neural Networks:** 80
-- **Model Training:** 75
-- **Transfer Learning:** 70
-
-### NLP & Generative AI
-- **LangChain:** 80
-- **OpenAI API:** 85
-- **Ollama:** 75
-- **LLM Integration:** 80
-
-### Web Technologies
-- **React.js:** 80
-- **Next.js:** 75
-- **HTML/CSS:** 85
-- **Tailwind CSS:** 85
-
-### Databases
-- **MySQL:** 80
-- **MongoDB:** 75
-- **ChromaDB:** 75
-
-### Deployment & Tools
-- **Git:** 85
-- **Docker:** 70
-- **REST APIs:** 80
-- **VS Code:** 90
+| Category | Skills |
+| --- | --- |
+| Programming Languages | 🐍 Python · 📜 JavaScript · 🗃️ SQL · 🐚 Bash |
+| ML Libraries & Frameworks | ➗ NumPy · 🐼 Pandas · 📊 Scikit-learn · 🔶 TensorFlow · 🔥 PyTorch · 📈 Matplotlib |
+| Computer Vision | 👁️ OpenCV · 🎯 YOLO · 🧑‍💻 Face Recognition · 🔎 Object Detection |
+| Deep Learning | 🧠 CNN · 🕸️ Neural Networks · 🏋️ Model Training · 🔄 Transfer Learning |
+| NLP & Generative AI | 🔗 LangChain · 🤖 OpenAI API · 🦙 Ollama · 🧩 LLM Integration |
+| Web Technologies | ⚛️ React.js · ⏭️ Next.js · 🧱 HTML/CSS · 🌬️ Tailwind CSS |
+| Databases | 🐬 MySQL · 🍃 MongoDB · 🎨 ChromaDB |
+| Deployment & Tools | 🌿 Git · 🐳 Docker · 🔌 REST APIs · 🧰 VS Code |
 
 ---
 
