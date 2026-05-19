@@ -21,7 +21,7 @@ Third-year CSE (AI-IBM) student at Shri Vaishnav Vidyapeeth Vishwavidyalaya focu
 ## 💼 Experience
 
 **Club Member** — *Abhyudaya Coding Club — Shri Vaishnav Vidyapeeth Vishwavidyalaya* | 2024 - Present
-- The development of AI-based projects including Time Table Generation system using constraint satisfaction algorithms
+- Developed AI-based projects including Time Table Generation system using constraint satisfaction algorithms
 - Organized workshops on Python, NumPy, Pandas, and Scikit-learn for club members
 - Collaborated with team members on model optimization and performance enhancement
 
