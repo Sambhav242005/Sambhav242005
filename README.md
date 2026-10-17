@@ -1,17 +1,17 @@
 # 👋 Hi there, I'm Sambhav Surana
 
-**AI Agents & Systems Builder · Python & Full-stack Developer · Real-Time Computer Vision**
+**Agentic AI Systems · Agent Harnesses & Tool Orchestration · Python & Full-stack Development**
 
-Third-year CSE (AI-IBM) student at Shri Vaishnav Vidyapeeth Vishwavidyalaya focused on AI agent systems, custom models, and real-time computer vision pipelines. Skilled in Python, PyTorch, and full-stack development (FastAPI/Next.js/Docker). I turn research ideas into reliable, production-ready services and am seeking impactful engineering roles.
+I build agentic systems and the harnesses around them: tool routing, bounded execution loops, task state, safety policies, and verification. My projects span local-first voice and computer-use agents, stateful complaint-processing workflows with human review, and semantic video search with visual verification. I also explore privacy-preserving IoT system design and transformer compression. I work primarily with Python, FastAPI, LangGraph, and Next.js.
 
 **📧 Contact:** sambhav242005@gmail.com | **📱** +91 7999468896  
-**🌐 Portfolio:** [https://sambhav-surana.online](https://sambhav-surana.online)
+**🌐 Portfolio:** [https://www.sambhavsurana.online](https://www.sambhavsurana.online)
 
 ---
 
 ## 🎓 Education
 
-**B.Tech — Computer Science (AI-IBM) — III Year**  
+**B.Tech — Computer Science (AI-IBM)**
 *Shri Vaishnav Vidyapeeth Vishwavidyalaya* | 2023 - Present | **CGPA: 7.5**
 
 **Relevant Coursework:** Machine Learning · NLP · Time Series · Statistics
@@ -21,51 +21,86 @@ Third-year CSE (AI-IBM) student at Shri Vaishnav Vidyapeeth Vishwavidyalaya focu
 ## 💼 Experience
 
 **Club Member** — *Abhyudaya Coding Club — Shri Vaishnav Vidyapeeth Vishwavidyalaya* | 2024 - Present
-- Developed AI-based projects including Time Table Generation system using constraint satisfaction algorithms
-- Organized workshops on Python, NumPy, Pandas, and Scikit-learn for club members
-- Collaborated with team members on model optimization and performance enhancement
+- Developed a timetable generation project using constraint satisfaction algorithms
+- Organized club workshops covering Python, NumPy, Pandas, and scikit-learn
+- Collaborated on model optimization and performance improvements
 
 ---
 
 ## 🚀 Featured Projects
 
-### Real-Time AI Face Recognition System
-High-throughput face tracking system using YOLOv11 and Vector Database retrieval with multi-process architecture.
+### NEXUS — Voice & Computer-Use Agent
+Local-first agent with a bounded plan–act–verify loop, typed tool actions, task-state decisions, independent safety policies, and screenshot-based verification. Supports voice and text input with configurable model providers.
 
-**Tech Stack:** YOLOv11 · ChromaDB · Computer Vision · Multi-Processing · OpenCV  
-**Repository:** [https://github.com/Sambhav242005/AI-Face-Detect-and-Recognition](https://github.com/Sambhav242005/AI-Face-Detect-and-Recognition)
+**Harness focus:** Tool routing · Step limits · Action validation · Confirmation gates · Audit logs · Mock-based testing
+
+**Tech Stack:** Python · SemIf · Windows UI Automation · Whisper · Ollama
+
+**Repository:** [NEXUS](https://github.com/Sambhav242005/NEXUS)
+
+**Implementation:** [Execution loop](https://github.com/Sambhav242005/NEXUS/blob/HEAD/src/nexus/agent/loop.py) · [Safety policy](https://github.com/Sambhav242005/NEXUS/blob/HEAD/src/nexus/safety/policy.py) · [Policy tests](https://github.com/Sambhav242005/NEXUS/blob/HEAD/tests/safety/test_policy.py)
 
 ---
 
-### Prime-Paradox (CampusCare)
-Intelligent medical ecosystem connecting patients and doctors via Multi-Agent AI with secure messaging.
+### QPilot — AI Complaint Intelligence
+Converts pharmaceutical complaint text and PDFs into structured records through a stateful LangGraph workflow. Supports classification, risk recommendations, conversational corrections, schema validation, and human review before committing records.
 
-**Tech Stack:** Next.js 15 · FastAPI · LangGraph · Supabase · Full-Stack Development  
-**Repository:** [https://github.com/Voidhacks7-0/Prime-Paradox](https://github.com/Voidhacks7-0/Prime-Paradox)
+**Workflow focus:** Structured outputs · Stateful orchestration · Human review · Deterministic completeness checks · Audit trails
+
+**Tech Stack:** LangGraph · FastAPI · Pydantic · SQLAlchemy · Next.js · TypeScript
+
+**Repository:** [QPilot](https://github.com/Sambhav242005/QPilot)
+
+**Implementation:** [Workflow](https://github.com/Sambhav242005/QPilot/blob/HEAD/backend/app/graph/workflow.py) · [State schema](https://github.com/Sambhav242005/QPilot/blob/HEAD/backend/app/graph/state.py) · [Demo walkthrough](https://github.com/Sambhav242005/QPilot/blob/HEAD/docs/ARCHITECTURE_WALKTHROUGH.md)
+
+---
+
+### Digital Witness — Semantic Video Search
+Prepares CCTV recordings for natural-language search, with semantic retrieval, chat, and visual checks on candidate frames. Includes background jobs, retries, recovery, and explicit capability reporting; temporal-event reasoning remains deferred.
+
+**Systems focus:** Retrieval pipelines · Frame verification · Job lifecycle · Recovery · Model availability checks
+
+**Tech Stack:** Python · FastAPI · Next.js · FFmpeg · Gemini
+
+**Repository:** [Digital-Witness](https://github.com/Sambhav242005/Digital-Witness)
+
+**Demo:** [Hosted application](https://digital-witness-frontend.onrender.com) — free-tier cold starts and temporary upload storage apply.
+
+---
+
+## Ongoing Design: PrivacyGate AI
+Design/specification-stage project for sharing AI-derived IoT anomaly insights through owner-controlled permissions. The proposed architecture separates local inference from deterministic disclosure policy, with encrypted delivery and an on-chain grant/revoke registry.
+
+**Design focus:** Trust boundaries · Schema-limited outputs · Deterministic authorization · Data minimization · Revocation
+
+**Planned Tech Stack:** Python · FastAPI · scikit-learn · MQTT · SQLite · Solidity · Next.js
+
+**Status:** Design and development specifications; implementation and validation are planned.
+
+**Repository:** [PrivacyGate_AI](https://github.com/Sambhav242005/PrivacyGate_AI)
+
+---
+
+## Other Work
+
+- [AI Knowledge Graph Builder](https://github.com/Sambhav242005/Major-Project) — Document ingestion, semantic search, citation-grounded chat, and graph visualization.
+- [Weighted Low-Rank Compression](https://github.com/Sambhav242005/Weighted-Lowrank-Compression) — Transformer compression research with quality, storage, and CPU/GPU measurements; no consistent acceleration established.
+- [AI Face Recognition](https://github.com/Sambhav242005/AI-Face-Detect-and-Recognition) — YOLOv11 face tracking with ChromaDB retrieval and multiprocessing.
+- [CampusCare](https://github.com/Voidhacks7-0/Prime-Paradox) — Patient–doctor application with AI workflows and messaging.
 
 ---
 
 ## 💻 Tech Stack & Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0052CC?logo=chainlink&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-
-| Category | Skills |
+| Focus | Tools & Practices |
 | --- | --- |
-| Programming Languages | 🐍 Python · 📜 JavaScript · 🗃️ SQL · 🐚 Bash |
-| ML Libraries & Frameworks | ➗ NumPy · 🐼 Pandas · 📊 Scikit-learn · 🔶 TensorFlow · 🔥 PyTorch · 📈 Matplotlib |
-| Computer Vision | 👁️ OpenCV · 🎯 YOLO · 🧑‍💻 Face Recognition · 🔎 Object Detection |
-| Deep Learning | 🧠 CNN · 🕸️ Neural Networks · 🏋️ Model Training · 🔄 Transfer Learning |
-| NLP & Generative AI | 🔗 LangChain · 🤖 OpenAI API · 🦙 Ollama · 🧩 LLM Integration |
-| Web Technologies | ⚛️ React.js · ⏭️ Next.js · 🧱 HTML/CSS · 🌬️ Tailwind CSS |
-| Databases | 🐬 MySQL · 🍃 MongoDB · 🎨 ChromaDB |
-| Deployment & Tools | 🌿 Git · 🐳 Docker · 🔌 REST APIs · 🧰 VS Code |
+| Agent Harnesses | Tool routing · Bounded execution · Task state · Action validation · Human approval · Verification |
+| AI Workflows & Retrieval | LangGraph · LangChain · Pydantic · Semantic search · ChromaDB · Ollama |
+| Testing & Observability | pytest · Mock-based testing · Safety policy tests · Audit trails · Capability reporting |
+| Backend & Data | Python · FastAPI · SQLAlchemy · SQL · PostgreSQL · Supabase |
+| Frontend | TypeScript · JavaScript · Next.js · React · Tailwind CSS |
+| ML & Computer Vision | PyTorch · scikit-learn · OpenCV · YOLO · FFmpeg |
+| Development Tools | Git · Docker · Bash · REST APIs |
 
 ---
 
@@ -83,5 +118,5 @@ Elite Certificate with a consolidated score of 66%. Completed an 8-week course c
 
 - **LinkedIn:** [Sambhav Surana](https://www.linkedin.com/in/sambhav-surana-19a557279/)
 - **GitHub:** [Sambhav242005](https://github.com/Sambhav242005)
-- **Portfolio:** [https://sambhav-surana.online](https://sambhav-surana.online)
+- **Portfolio:** [https://www.sambhavsurana.online](https://www.sambhavsurana.online)
 - **Email:** sambhav242005@gmail.com

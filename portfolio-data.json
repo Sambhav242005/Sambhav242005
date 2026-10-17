@@ -1,11 +1,11 @@
 {
   "profile": {
     "name": "Sambhav Surana",
-    "tagline": "AI Agents & Systems Builder · Python & Full-stack Developer · Real-Time Computer Vision",
-    "summary": "Third-year CSE (AI-IBM) student at Shri Vaishnav Vidyapeeth Vishwavidyalaya focused on AI agent systems, custom models, and real-time computer vision pipelines. Skilled in Python, PyTorch, and full-stack development (FastAPI/Next.js/Docker). I turn research ideas into reliable, production-ready services and am seeking impactful engineering roles.",
+    "tagline": "Agentic AI Systems · Agent Harnesses & Tool Orchestration · Python & Full-stack Development",
+    "summary": "I build agentic systems and the harnesses around them: tool routing, bounded execution loops, task state, safety policies, and verification. My projects span local-first voice and computer-use agents, stateful complaint-processing workflows with human review, and semantic video search with visual verification. I also explore privacy-preserving IoT system design and transformer compression. I work primarily with Python, FastAPI, LangGraph, and Next.js.",
     "email": "sambhav242005@gmail.com",
     "phone": "+91 7999468896",
-    "website": "https://sambhav-surana.online",
+    "website": "https://www.sambhavsurana.online",
     "github": "https://github.com/Sambhav242005",
     "linkedin": "https://www.linkedin.com/in/sambhav-surana-19a557279/"
   },
@@ -16,9 +16,9 @@
       "company": "Abhyudaya Coding Club — Shri Vaishnav Vidyapeeth Vishwavidyalaya",
       "dateRange": "2024 - Present",
       "bullets": [
-        "Developed AI-based projects including Time Table Generation system using constraint satisfaction algorithms",
-        "Organized workshops on Python, NumPy, Pandas, and Scikit-learn for club members",
-        "Collaborated with team members on model optimization and performance enhancement"
+        "Developed a timetable generation project using constraint satisfaction algorithms",
+        "Organized club workshops covering Python, NumPy, Pandas, and scikit-learn",
+        "Collaborated on model optimization and performance improvements"
       ]
     }
   ],
@@ -26,7 +26,7 @@
     {
       "id": "edu-1",
       "institution": "Shri Vaishnav Vidyapeeth Vishwavidyalaya",
-      "degree": "B.Tech — Computer Science (AI-IBM) — III Year",
+      "degree": "B.Tech — Computer Science (AI-IBM)",
       "dateRange": "2023 - Present",
       "details": [
         "CGPA: 7.5",
@@ -35,6 +35,96 @@
     }
   ],
   "projects": [
+    {
+      "id": "proj-nexus",
+      "title": "NEXUS — Voice & Computer-Use Agent",
+      "description": "Local-first voice and computer-use agent with bounded plan–act–verify execution, typed tool routing, task state, independent safety policies, confirmation gates, and audit logs.",
+      "technologies": [
+        "Python",
+        "SemIf",
+        "Windows UI Automation",
+        "Whisper",
+        "Ollama"
+      ],
+      "category": "ai",
+      "githubUrl": "https://github.com/Sambhav242005/NEXUS",
+      "liveUrl": "",
+      "featured": true,
+      "status": "project"
+    },
+    {
+      "id": "proj-qpilot",
+      "title": "QPilot — AI Complaint Intelligence",
+      "description": "Stateful LangGraph workflow that converts pharmaceutical complaint text and PDFs into structured records, with classification, risk recommendations, conversational corrections, schema validation, human review, and audit trails.",
+      "technologies": [
+        "LangGraph",
+        "FastAPI",
+        "Pydantic",
+        "SQLAlchemy",
+        "Next.js",
+        "TypeScript"
+      ],
+      "category": "ai",
+      "githubUrl": "https://github.com/Sambhav242005/QPilot",
+      "liveUrl": "",
+      "featured": true,
+      "status": "project"
+    },
+    {
+      "id": "proj-digital-witness",
+      "title": "Digital Witness — Semantic Video Search",
+      "description": "CCTV preparation and natural-language search with semantic retrieval, chat, visual frame verification, background jobs, retries, recovery, and capability reporting. Temporal-event reasoning remains deferred.",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "Next.js",
+        "FFmpeg",
+        "Gemini"
+      ],
+      "category": "ai",
+      "githubUrl": "https://github.com/Sambhav242005/Digital-Witness",
+      "liveUrl": "https://digital-witness-frontend.onrender.com",
+      "featured": true,
+      "status": "project"
+    },
+    {
+      "id": "proj-privacygate",
+      "title": "PrivacyGate AI — Privacy-Preserving IoT Intelligence",
+      "description": "Design/specification-stage project for owner-controlled sharing of AI-derived IoT anomaly insights. Proposed architecture combines local inference, deterministic disclosure policy, encrypted delivery, and on-chain grant/revoke permissions. Implementation and validation are planned.",
+      "technologies": [
+        "Python (planned)",
+        "FastAPI (planned)",
+        "scikit-learn (planned)",
+        "MQTT (planned)",
+        "SQLite (planned)",
+        "Solidity (planned)",
+        "Next.js (planned)"
+      ],
+      "category": "ai",
+      "githubUrl": "https://github.com/Sambhav242005/PrivacyGate_AI",
+      "liveUrl": "",
+      "featured": false,
+      "status": "design/specification"
+    },
+    {
+      "id": "proj-knowledge-graph",
+      "title": "AI Knowledge Graph Builder",
+      "description": "Ingests PDF and DOCX documents into a searchable knowledge graph, with semantic search, citation-grounded chat, and interactive graph visualization.",
+      "technologies": [
+        "Next.js 15",
+        "FastAPI",
+        "Supabase",
+        "ChromaDB",
+        "NetworkX",
+        "LangGraph",
+        "MCP"
+      ],
+      "category": "ai",
+      "githubUrl": "https://github.com/Sambhav242005/Major-Project",
+      "liveUrl": "",
+      "featured": false,
+      "status": "project"
+    },
     {
       "id": "proj-2",
       "title": "Real-Time AI Face Recognition System",
@@ -48,7 +138,9 @@
       ],
       "category": "ai",
       "githubUrl": "https://github.com/Sambhav242005/AI-Face-Detect-and-Recognition",
-      "liveUrl": ""
+      "liveUrl": "",
+      "featured": false,
+      "status": "project"
     },
     {
       "id": "proj-4",
@@ -63,187 +155,215 @@
       ],
       "category": "web",
       "githubUrl": "https://github.com/Voidhacks7-0/Prime-Paradox",
-      "liveUrl": ""
+      "liveUrl": "",
+      "featured": false,
+      "status": "project"
+    },
+    {
+      "id": "proj-compression",
+      "title": "Weighted Low-Rank Compression",
+      "description": "Empirical research into activation-aware low-rank compression of transformer attention-output projections, comparing quality, residual drift, storage, and CPU/GPU execution. Current results document tradeoffs and limitations; no consistent acceleration is established.",
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "CUDA",
+        "Transformer Models"
+      ],
+      "category": "ai",
+      "githubUrl": "https://github.com/Sambhav242005/Weighted-Lowrank-Compression",
+      "liveUrl": "",
+      "featured": false,
+      "status": "research"
     }
   ],
   "skills": [
     {
-      "category": "Programming Languages",
-      "icon": "code",
+      "category": "Agent Harnesses",
+      "icon": "workflow",
       "items": [
         {
-          "name": "Python",
-          "icon": "🐍"
+          "name": "Tool routing",
+          "icon": ""
         },
         {
-          "name": "JavaScript",
-          "icon": "📜"
+          "name": "Bounded execution",
+          "icon": ""
         },
         {
-          "name": "SQL",
-          "icon": "🗃️"
+          "name": "Task state",
+          "icon": ""
         },
         {
-          "name": "Bash",
-          "icon": "🐚"
+          "name": "Action validation",
+          "icon": ""
+        },
+        {
+          "name": "Human approval",
+          "icon": ""
+        },
+        {
+          "name": "Verification",
+          "icon": ""
         }
       ]
     },
     {
-      "category": "ML Libraries & Frameworks",
+      "category": "AI Workflows & Retrieval",
       "icon": "brain",
       "items": [
         {
-          "name": "NumPy",
-          "icon": "➗"
+          "name": "LangGraph",
+          "icon": ""
         },
-        {
-          "name": "Pandas",
-          "icon": "🐼"
-        },
-        {
-          "name": "Scikit-learn",
-          "icon": "📊"
-        },
-        {
-          "name": "TensorFlow",
-          "icon": "🔶"
-        },
-        {
-          "name": "PyTorch",
-          "icon": "🔥"
-        },
-        {
-          "name": "Matplotlib",
-          "icon": "📈"
-        }
-      ]
-    },
-    {
-      "category": "Computer Vision",
-      "icon": "camera",
-      "items": [
-        {
-          "name": "OpenCV",
-          "icon": "👁️"
-        },
-        {
-          "name": "YOLO",
-          "icon": "🎯"
-        },
-        {
-          "name": "Face Recognition",
-          "icon": "🧑‍💻"
-        },
-        {
-          "name": "Object Detection",
-          "icon": "🔎"
-        }
-      ]
-    },
-    {
-      "category": "Deep Learning",
-      "icon": "network",
-      "items": [
-        {
-          "name": "CNN",
-          "icon": "🧠"
-        },
-        {
-          "name": "Neural Networks",
-          "icon": "🕸️"
-        },
-        {
-          "name": "Model Training",
-          "icon": "🏋️"
-        },
-        {
-          "name": "Transfer Learning",
-          "icon": "🔄"
-        }
-      ]
-    },
-    {
-      "category": "NLP & Generative AI",
-      "icon": "message-square",
-      "items": [
         {
           "name": "LangChain",
-          "icon": "🔗"
+          "icon": ""
         },
         {
-          "name": "OpenAI API",
-          "icon": "🤖"
+          "name": "Pydantic",
+          "icon": ""
         },
         {
-          "name": "Ollama",
-          "icon": "🦙"
-        },
-        {
-          "name": "LLM Integration",
-          "icon": "🧩"
-        }
-      ]
-    },
-    {
-      "category": "Web Technologies",
-      "icon": "globe",
-      "items": [
-        {
-          "name": "React.js",
-          "icon": "⚛️"
-        },
-        {
-          "name": "Next.js",
-          "icon": "⏭️"
-        },
-        {
-          "name": "HTML/CSS",
-          "icon": "🧱"
-        },
-        {
-          "name": "Tailwind CSS",
-          "icon": "🌬️"
-        }
-      ]
-    },
-    {
-      "category": "Databases",
-      "icon": "database",
-      "items": [
-        {
-          "name": "MySQL",
-          "icon": "🐬"
-        },
-        {
-          "name": "MongoDB",
-          "icon": "🍃"
+          "name": "Semantic search",
+          "icon": ""
         },
         {
           "name": "ChromaDB",
-          "icon": "🎨"
+          "icon": ""
+        },
+        {
+          "name": "Ollama",
+          "icon": ""
         }
       ]
     },
     {
-      "category": "Deployment & Tools",
+      "category": "Testing & Observability",
+      "icon": "check",
+      "items": [
+        {
+          "name": "pytest",
+          "icon": ""
+        },
+        {
+          "name": "Mock-based testing",
+          "icon": ""
+        },
+        {
+          "name": "Safety policy tests",
+          "icon": ""
+        },
+        {
+          "name": "Audit trails",
+          "icon": ""
+        },
+        {
+          "name": "Capability reporting",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "category": "Backend & Data",
+      "icon": "database",
+      "items": [
+        {
+          "name": "Python",
+          "icon": ""
+        },
+        {
+          "name": "FastAPI",
+          "icon": ""
+        },
+        {
+          "name": "SQLAlchemy",
+          "icon": ""
+        },
+        {
+          "name": "SQL",
+          "icon": ""
+        },
+        {
+          "name": "PostgreSQL",
+          "icon": ""
+        },
+        {
+          "name": "Supabase",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "category": "Frontend",
+      "icon": "code",
+      "items": [
+        {
+          "name": "TypeScript",
+          "icon": ""
+        },
+        {
+          "name": "JavaScript",
+          "icon": ""
+        },
+        {
+          "name": "Next.js",
+          "icon": ""
+        },
+        {
+          "name": "React",
+          "icon": ""
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "category": "ML & Computer Vision",
+      "icon": "eye",
+      "items": [
+        {
+          "name": "PyTorch",
+          "icon": ""
+        },
+        {
+          "name": "scikit-learn",
+          "icon": ""
+        },
+        {
+          "name": "OpenCV",
+          "icon": ""
+        },
+        {
+          "name": "YOLO",
+          "icon": ""
+        },
+        {
+          "name": "FFmpeg",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "category": "Development Tools",
       "icon": "terminal",
       "items": [
         {
           "name": "Git",
-          "icon": "🌿"
+          "icon": ""
         },
         {
           "name": "Docker",
-          "icon": "🐳"
+          "icon": ""
+        },
+        {
+          "name": "Bash",
+          "icon": ""
         },
         {
           "name": "REST APIs",
-          "icon": "🔌"
-        },
-        {
-          "name": "VS Code",
-          "icon": "🧰"
+          "icon": ""
         }
       ]
     }
