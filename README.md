@@ -12,7 +12,7 @@ I build agentic systems and the harnesses around them: tool routing, bounded exe
 ## 🎓 Education
 
 **B.Tech — Computer Science (AI-IBM)**
-*Shri Vaishnav Vidyapeeth Vishwavidyalaya* | 2023 - Present | **CGPA: 7.5**
+*Shri Vaishnav Vidyapeeth Vishwavidyalaya* | 2023 - Present | **CGPA: 7.02**
 
 **Relevant Coursework:** Machine Learning · NLP · Time Series · Statistics
 
